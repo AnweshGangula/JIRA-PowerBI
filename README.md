@@ -1,6 +1,6 @@
 # JIRA-PowerBI
 
-Visualize JIRA data in PowerBI
+Visualize JIRA data in PowerBI - [Jira API v3](https://developer.atlassian.com/cloud/jira/platform/rest/v3/intro/)
 
 Table of Content:
 1. [Create API Token](#1-Create-API-Token)
