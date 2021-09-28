@@ -5,8 +5,11 @@ Visualize JIRA data in PowerBI - [Jira API v3](https://developer.atlassian.com/c
 Table of Content:
 1. [Create API Token](#1-Create-API-Token)
 2. [Configure PowerBI Desktop](#2-Configure-PowerBI-Desktop)
+3. Custom Dashboards:
+    - [JQL Query](./JQL) 
 
-![Sample Screenshot](Images\JIRA-PowerBI-Sample-Image.png)
+Sample Screenshot
+![Sample Screenshot](./Images/JIRA-PowerBI-Sample-Image.png)
 
 ## How to use
 

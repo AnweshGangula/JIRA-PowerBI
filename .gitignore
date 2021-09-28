@@ -1,0 +1,2 @@
+# Only commit template files - pbix file may contain url and token information
+*.pbix
